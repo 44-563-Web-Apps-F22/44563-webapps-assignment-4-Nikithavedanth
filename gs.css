@@ -40,6 +40,36 @@ color:deeppink;
     color:deepskyblue;
 }
 .character{
-    font-size:20px;
+    font-size:15px;
     color:burlywood;
 }
+table{
+    border-style: dotted;
+}
+th, td {
+    border: 1px solid black;
+  }
+th {
+   color:purple;
+      }
+      td{
+        color:crimson;
+      }
+      tr:nth-child(even) {
+        background-color: cyan;
+      }
+      td {
+        text-align: center;
+      }
+      table {
+        padding-top: 50px;
+        padding-right: 80px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+      }
+      table {
+        margin: 25px 50px 75px 100px;
+      }
+     
+   
+      
