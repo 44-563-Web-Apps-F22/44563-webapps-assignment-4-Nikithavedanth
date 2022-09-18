@@ -21,7 +21,7 @@ span{
     color:green;
 }
 span:hover{
-    background-color:aquamarine;g
+    background-color:aquamarine;
 }
 h3{
     font-style: italic;
@@ -107,3 +107,4 @@ th {
   
   li a:hover {
     background-color:blueviolet;
+  }
